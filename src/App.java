@@ -6,7 +6,7 @@
  *     -It is a very windy day! The hail will fly from BOTTOM to TOP on the screen. The hail should spawn (form)
  *      at random locations across the BOTTOM of the screen.
  *     -If the rain reaches the top of the screen, it should be removed from the screen 
- *         and any list it may be a part of.
+ *         AND any list it may be a part of.
  *     -There will be a frisbee bouncing around the screen, if the rain touches the frisbee the rain should disappear.
  * 
  *   Specifications:
