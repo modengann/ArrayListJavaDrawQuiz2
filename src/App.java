@@ -3,7 +3,8 @@
  *     -Make rain constantly appear on the screen. 
  *         -Rain will be an oval where the height is a random value between 5 and 12 and the width is
  *          a random value between 4 and 8.  
- *     -It is a very windy day! The hail will fly from BOTTOM to TOP on the screen.
+ *     -It is a very windy day! The hail will fly from BOTTOM to TOP on the screen. The hail should spawn (form)
+ *      at random locations across the BOTTOM of the screen.
  *     -If the rain reaches the top of the screen, it should be removed from the screen 
  *         and any list it may be a part of.
  *     -There will be a frisbee bouncing around the screen, if the rain touches the frisbee the rain should disappear.
